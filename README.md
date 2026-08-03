@@ -68,39 +68,6 @@ I love turning complex problems into elegant code solutions! ☕💻
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashutoshpatil&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshpatil&layout=compact&theme=radical&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshpatil&theme=radical&hide_border=true" width="60%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshpatil&theme=radical&no-frame=true&margin-w=15&margin-h=15&row=1" />
-</p>
-
----
-
-### 🚀 Projects I'm Proud Of
-
-| Project | Tech Stack | Live Demo |
-|---------|------------|-----------|
-| **Project 1** | React, Node.js, MongoDB | [Live Link](#) |
-| **Project 2** | React, Express, PostgreSQL | [Live Link](#) |
-| **Project 3** | Next.js, Node.js, AWS | [Live Link](#) |
-
----
-
 ### 📫 Let's Connect!
 
 <p align="left">
@@ -122,38 +89,3 @@ I love turning complex problems into elegant code solutions! ☕💻
 </p>
 
 ---
-
-### 🎯 Current Goals
-
-- ✅ Build and deploy 5 MERN projects on AWS
-- ✅ Get AWS Certified (Cloud Practitioner)
-- ✅ Contribute to open-source projects
-- ✅ Master Next.js and TypeScript
-
----
-
-### 📝 Latest Blog Posts (Optional)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Add your blog links here if you write -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-<p align="center">
-  <b>💻 "Code is like poetry – it should be clean, elegant, and meaningful."</b>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashutoshpatil/ashutoshpatil/output/snake.svg" alt="Snake animation" />
-</p>
-
-<p align="center">
-  <b>⭐️ If you like my work, consider giving a star to my repositories! ⭐️</b>
-</p>
