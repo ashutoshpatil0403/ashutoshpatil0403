@@ -4,8 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AWS+Cloud+Enthusiast;Building+Scalable+Web+Apps;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
----
-
 ### 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
