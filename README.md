@@ -4,13 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AWS+Cloud+Enthusiast;Building+Scalable+Web+Apps;React+%7C+Node.js+%7C+MongoDB+%7C+Express;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshpatil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ashutoshpatil?label=Followers&style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ashutoshpatil?label=Stars&style=social" alt="Stars" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
